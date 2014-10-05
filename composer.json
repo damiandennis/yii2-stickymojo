@@ -1,0 +1,16 @@
+{
+    "name": "damiandennis/yii2-stickymojo",
+    "description": "Makes use of the jquery sticky mojo plugin.",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Damian Dennis",
+            "email": "damiandennis@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4",
+        "bower-asset/stickymojo": "v1.0.0"
+    }
+}
